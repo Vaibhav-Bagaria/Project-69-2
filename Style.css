@@ -32,7 +32,7 @@ h1 {
 	list-style: none;
 	font-family: 'Lobster', cursive;
 	float: left;
-	position: sticky;
+	Position:fixed;
 	top: 0px;
 	right: 30px;
 	z-index: 99999;
@@ -134,5 +134,11 @@ input {
 #LA H3 {
 	color: darkviolet;
 	text-align: center;
+} 
+
+#WIN
+{
+height: 900px;
+margin-top: 2000px;
 }
 
